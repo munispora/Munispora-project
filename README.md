@@ -8,7 +8,7 @@ The goal of this project is to create a specific community toolbox and transitio
 
 ## frameworks (highly subject to emergence, and the zeitgeist) 
 
-- A global level perspective on how to transition to a greater world of abundance and sustainability/symbiosis with nature/gaia (Abundance protocol)
+- A global level perspective on how to transition to a greater world of abundance and sustainability/symbiosis with nature/gaia !(Abundance protocol)[https://github.com/munispora/Abundance-protocol]
 - A local economic funding transition framework for physical intentional communities (EICFF)
 - A framework for inter-community collaboration and exchange of resources (WeQuest)
 - A framework for optimum resource stewardship in a permaculture community (Opens Source Ecology)
