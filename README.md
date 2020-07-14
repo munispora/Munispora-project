@@ -13,8 +13,8 @@ The goal of this project is to create a specific community toolbox and transitio
 - A framework for inter-community collaboration and exchange of resources (WeQuest)
 - A framework for optimum resource stewardship in a permaculture community (Opens Source Ecology)
 
-## tools ( implementation (in part) of the frameworks)
-A suite of agent centric software tools to facilitate community governance and cohesion (community toolbox).
+## tools (community toolbox)
+A suite of agent centric software tools to facilitate community governance and cohesion implemented from the above frameworks.
 
   - **xs-exchange**: mutual credit, gifting, exchange of abundant or excess resources (WeQuest)
   - **hmap**: data visualization, education
