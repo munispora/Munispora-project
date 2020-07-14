@@ -1,5 +1,5 @@
 # Munispora-project
-A possible alternative socio-economic model for a global network of resiliant permaculture communities (4 - 150 people)
+A possible alternative socio-economic model for a global network of resiliant permaculture communities **(4 - 150 people)**
 Muni from municipal and Spora from the dispersion of spores that create mycellium networks
 
 There are many movements and organisations which describe a vision of an alternative social and economic system that is more collaborative and aligned with nature then our present day mostly variations of capitalism, but many do not detail much substancially in any strategy, concrete transtion plan or technological tools. 
@@ -8,8 +8,8 @@ The goal of this project is to create a specific community toolbox and transitio
 
 ## frameworks (highly subject to emergence, and the zeitgeist) 
 
-- A global level perspective on how to transition to a greater world of abundance and sustainability/symbiosis with nature/gaia [Abundance protocol](https://github.com/munispora/Abundance-protocol)
-- A local economic funding transition framework for physical intentional communities [EICFF](https://github.com/instagaian/Egalitarian-Intentional-Community-Funding-Framework)
+- A global level perspective on how to transition to a greater world of abundance and sustainability/symbiosis with nature/gaia [(Abundance protocol)](https://github.com/munispora/Abundance-protocol)
+- A local economic funding transition framework for physical intentional communities [(EICFF)](https://github.com/instagaian/Egalitarian-Intentional-Community-Funding-Framework)
 - A framework for inter-community collaboration and exchange of resources (WeQuest)
 - A framework for optimum resource stewardship in a permaculture community (Opens Source Ecology)
 
