@@ -10,17 +10,17 @@ The goal of this project is to create a specific community toolbox and transitio
 
 - A global level perspective on how to transition to a greater world of abundance and sustainability/symbiosis with nature/gaia [(Abundance protocol)](https://github.com/munispora/Abundance-protocol)
 - A local economic funding transition framework for physical intentional communities [(EICFF)](https://github.com/instagaian/Egalitarian-Intentional-Community-Funding-Framework)
-- A framework for inter-community collaboration and exchange of resources (THEOS)
+- A framework for inter-community collaboration and exchange of resources (xs-exchange)
 - A framework for optimum resource stewardship in a permaculture community [(Opens Source Ecology)](https://www.opensourceecology.org)
 
 ## tools (community toolbox)
 A suite of agent centric software tools to facilitate community governance and cohesion implemented from the above frameworks.
 
   - **social-graph**: identity management, reputation
-  - **xs-exchange**: mutual credit, gifting, exchange of abundant or excess resources, FUTILE (THEOS)
+  - **mutualize**: mutual credit, gifting, exchange of abundant or excess resources, FUTILE asset backed (xs-exchange)
   - **hmap**: data visualization, education
   - **gather**: event coordination
   - **comsurf**: non-monetary community room booking
-  - **tokenSplitter**: distribution of tokens to community members (EICFF)
+  - **holons**: distribution of tokens to community members (EICFF,Holons)
   - **dicider**: a tool for liquid democracy when non-AI consensus reality is needed
   - **junto**: a news and blog app for communities
