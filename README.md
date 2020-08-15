@@ -23,4 +23,4 @@ A suite of agent centric software tools to facilitate community governance and c
   - **comsurf**: non-monetary community room booking
   - **holons**: distribution of tokens to community members (EICFF,Holons)
   - **dicider**: a tool for liquid democracy when non-AI consensus reality is needed
-  - **junto**: a news and blog app for communities
+  - **hylo**: a news and blog app for communities
